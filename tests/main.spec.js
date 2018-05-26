@@ -26,10 +26,5 @@ describe('Spotify Wrapper', () => {
     it('should call fetch function', () => {
       const artists = search()
     })
-
-
   })
-
-
-
 })
